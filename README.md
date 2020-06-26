@@ -1,6 +1,8 @@
 <h1 align="center">Node.js Telegram Bot API</h1>
 
 <div align="center">
+  
+  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/yagop/node-telegram-bot-api) 
 
 Node.js module to interact with the official [Telegram Bot API](https://core.telegram.org/bots/api).
 
